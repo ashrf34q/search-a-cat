@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Project3</string>
+    <string name="api_key">live_xbkdroHwk7WdpxYupP2HqnifRTufnBFVg4Wq2U0OYHeFtAeGlCKHPgRAOXNzDlZ4</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n
+    </string>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string name="image_url">https://api.thecatapi.com/v1/images/search?breed_ids=${id}</string>
+    <string name="general_info">https://api.thecatapi.com/v1/breeds/search?name=</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cat_image">cat image</string>
+</resources>
